@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+:metal: This text rocks
 Use the left arrow to go back!
